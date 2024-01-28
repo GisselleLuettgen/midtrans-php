@@ -1,4 +1,4 @@
-# Conversions
+#*Conversions
 
 This content has moved to the [`dotnet/csharpstandard`](https://github.com/dotnet/csharpstandard) repository.
 The list below provides links to each heading in this section. The links specify the C# 6 branch, which is version when the specifications merged.
@@ -43,3 +43,4 @@ The list below provides links to each heading in this section. The links specify
     - <a id="evaluation-of-anonymous-function-conversions-to-expression-tree-types"></a>[Evaluation of anonymous function conversions to expression tree types](https://github.com/dotnet/csharpstandard/blob/draft-v6/standard/conversions.md#1073-evaluation-of-lambda-expression-conversions-to-expression-tree-types)
     - <a id="implementation-example"></a>[Implementation example](https://github.com/dotnet/csharpstandard/blob/draft-v6/standard/conversions.md#1073-evaluation-of-lambda-expression-conversions-to-expression-tree-types)
   - <a id="method-group-conversions"></a>[Method group conversions](https://github.com/dotnet/csharpstandard/blob/draft-v6/standard/conversions.md#108-method-group-conversions)
+ 
